@@ -1,0 +1,211 @@
+====================
+12 May 2011 program
+====================
+
+:Location: HATDS
+:Band: *Perfect 5th*
+
+.. contents:: Dance index
+
+A dance program of Contra Classics and Chestnuts!
+
+Jefferson's Reel (Dudley Briggs, 1954)
+--------------------------------------
+
+Improper
+
+==== ===== ====
+A1.  \( 8) Cir lf
+..   \( 8) Cir rt
+A2.  \( 8) Star rt
+..   \( 8) Star lf
+B1.  \(16) 1s separate, go dn outside, turn alone, ret
+B2.  \( 4) 1s in center of line-of-4 down hall
+..   \( 8) 1s arch, 2s duck through, take hands 4 w/ new N
+..   \( 4) 1s back up, 2s walk fwd back up the hall
+==== ===== ====
+
+This dance is a simplification of Jefferson & Liberty
+(the tune that the band played).
+
+
+Circassian Circle (Traditional)
+-------------------------------
+
+Circle mixer
+
+==== ===== ===
+A1.  \( 8) Cir lf
+..   \( 8) Cir rt
+A2.  \( 8) W fwd & bk
+..   \( 8) M fwd, turn lf to face out, ret
+B1.  \(16) Corners sw
+B2.  \(16) Promenade
+==== ===== ===
+
+This circle mixer shows up as a well-known folk dance
+all over the world.  This (contra) version replaces 
+everybody fwd & bk 2x in A1 with cir lf/cir rt.
+
+
+Lady Walpole's Reel (Traditional)
+---------------------------------
+
+improper
+
+==== ===== ===
+A1.  \(16) N bal & sw
+A2.  \(16) 1s dn center, turn alone, ret, cast off
+B1.  \(16) W ch (over and back)
+B2.  \( 8) Promenade across
+..   \( 8) Rt and lf thru
+==== ===== ===
+
+
+
+British Sorrow (Trad, sometime well before 1807)
+------------------------------------------------
+
+Triple proper
+
+==== ===== ===
+A1.  \( 8) 1s down outside below 2 cpls
+..   \( 8) 1s come up inside, cast around 2s
+A2.  \( 8) 1s face dn, hands-across star rt w/ 3s
+..   \( 8) 1s face up, hands-across star lf w/ 2s
+B1.  \(16) Cir rt (all six)
+B2.  \(16) 1s w/ 2s rt & lf thru over and back
+==== ===== ===
+
+Notes:
+
+* Cpl out at top waits out 2 times, cpls at bottom dance w/ ghost cpl
+* 2s and 3s alternate positions
+* Stars are purposeful, but cir & stars are unhurried
+* In that time period, rt & lf done entirely w/o hands, akin to circular hey
+
+
+
+Corner Triplet (Linda Leslie, 1991)
+-----------------------------------
+
+Proper triplet, ends (2, 3, 1)
+
+
+==== ===== ===
+A1.  \(16) 1s dn center, turn alone, rt, cast off
+A2.  \(16) 1s turn contra corners
+B1.  \(16) 1s bal & sw; end facing up
+B2.  \( 8) 1s up center to top, separate to bottom
+..   \( 8) Lines of 3 fwd & bk
+==== ===== ===
+
+(It's not so much a classic as a classic helper....)
+
+
+Rory O'More (Traditional)
+-------------------------
+
+proper
+
++-----+-------+----------------------------------------------+
+| A1. | \(16) | 1s cross over, go dn below 1,                |
+|     |       | 1s come up center while crossing back,       |
+|     |       | cast off with same-sex N, come in to center, |
+|     |       | give rt hd to P and lf to next active        |
+|     |       | to make wavy line of 1s                      |
++-----+-------+----------------------------------------------+
+| A2. | \( 8) | bal wave rt, then lf, and slide rt           |
++-----+-------+----------------------------------------------+
+|     | \( 8) | bal wave lf, then rt, and slide lf           |
++-----+-------+----------------------------------------------+
+| B1. | \(16) | 1s turn contra corners                       |
++-----+-------+----------------------------------------------+
+| B2. | \(16) | 1s bal & sw, end proper                      |
++-----+-------+----------------------------------------------+
+
+It turns out that this dance is deceptively difficult for
+more novice dancers.
+
+
+(break)
+
+
+Fiddleheads (Ted Sannella, 23 Feb. 1983)
+----------------------------------------
+
+improper
+
++-----+------+----------------------------------------------+
+| A1. | \( 8)| 1s cross over, loop lf around 1 into center  |
+|     |      | (M1 face up, W1 face dn) (*)                 |
++-----+------+----------------------------------------------+
+|     | \( 8)| bal diamond, petronella twirl to rt          |
++-----+------+----------------------------------------------+
+| A2. | \( 8)| bal diamond, petronella twirl to rt          |
++-----+------+----------------------------------------------+
+|     | \( 8)| 1s sw, end facing dn                         |
++-----+------+----------------------------------------------+
+| B1. | \(16)| 4-in-line dn hall,                           |
+|     |      | 1s turn as cpls, 2s turn alone, ret, cast    |
++-----+------+----------------------------------------------+
+| B2. | \( 4)| Cir lf 1/2                                   |
++-----+------+----------------------------------------------+
+|     | \(12)| N sw, end facing across                      |
++-----+------+----------------------------------------------+
+
+(*) 1s not with your P in A1
+
+It was a bit tricky to teach, but the dance went very well.
+
+
+Monadnock Reel (Ralph Page + folk process)
+------------------------------------------
+
+Improper
+
+==== ===== ====
+A1.  \( 4) 1s bal
+..   \( 8) 1s dsd (across phrase)
+..   \( 4) N almd lf (asymmetric!) (*)
+A2.  \(16) 1s sw
+B1.  \(16) N bal & sw
+B2.  \(16) W ch over and bk
+==== ===== ====
+
+(*) The allemande left in A1 continues until the 1s are facing across.
+    (1 1/4 for M1, but only 3/4 for W1)
+
+
+Shadrack's delight (Tony Parkes, Apr. 1972)
+-------------------------------------------
+
+Improper
+
+==== ===== ===
+A1.  \( 8) N dsd 1 1/4 to wavy lines (W in center)
+..   \( 4) Bal wave
+..   \( 4) All almd rt 1/2
+A2.  \( 4) Bal wave
+..   \( 4) Men almd lf 1/2
+..   \( 8) P sw, end facing dn
+B1.  \(16) 4-in-line dn hall, turn as cpls, ret, cast off
+B2.  \( 8) Rt & lf thru
+..   \( 8) W ch
+==== ===== ===
+
+
+Chorus Jig (Traditional)
+------------------------
+
+Proper
+
+==== ===== ====
+A1.  \(16) 1s down outside, turn alone, ret, meet P in center
+A2.  \(16) 1s down center, turn alone, ret, cast off w/ 2s
+B1.  \(16) 1s turn contra corners
+B2.  \(16) 1s bal & sw
+==== ===== ====
+
+The band started with the title tune, then switched to Dancing Bear.  Awesome
+tune choice!

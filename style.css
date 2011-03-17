@@ -1,0 +1,51 @@
+/* HTML5-specific CSS setup */
+article,aside,figure,footer,header,hgroup,nav,section{display:block}
+
+html{background:white;color:black}
+body {font:normal medium; padding: 0; margin: 0 auto}
+.a{font: 100%/1 "Arial Unicode MS",FreeSerif,OpenSymbol,"DejaVu Sans",sans-serif}
+/*
+a{background:transparent;text-decoration:none;border-bottom:1px dotted}
+a:hover{border-bottom:1px solid}
+a:link{color:#1b67c9}
+a.simple{border:0 !important;float:left;display:block;margin-right:20px}
+*/
+a:hover{background-color: #FFF2F5;}
+a:visited{color:darkorchid}
+h1 a{color:inherit !important}
+header{background: #cccccc; margin:0;padding:0.2em 0}
+/*
+header{background: #cccccc; margin:0;padding:1.75em 0}
+body{font:normal medium 'Gill Sans','Gill Sans MT','Goudy Bookletter 1911','Linux Libertine O','Liberation Serif',Candara,serif;padding:0;margin:0 auto;width:40em;line-height:1.75;word-spacing:0.1em}
+h2,p{margin:1.75em 0;font-weight:normal}
+header{background:black;color:white;margin:0;padding:1.75em 0}
+nav a:link{color:white}
+nav a:visited{color:white}
+h1{letter-spacing:1em;text-align:center;margin:0}
+*/
+h1{text-align:center;margin:0}
+h2{text-align:center;font-size:medium;line-height:1.154}
+nav {float: left; width: 160px; 
+     color: black;
+     font-size: 12px;
+     margin: 10px 0px 6px 10px;
+     background: #eff4f9;
+     border 1px solid #b0bdcc;}
+nav h4 {background: #EFF4F9; color: #5e6a72; 
+        border-bottom: 1px dotted #d7dee5;
+        font-size: 13px;
+        margin: 0px; padding: 3px 5px;
+       font-weight: bold; text-align: left}
+nav ul {line-height: 1.33em; list-style: none;
+        padding: 0;}
+nav li {list-style: none none; margin: 1px 0px 0px;
+        list-image-style: none;
+        padding: 2px 0px 0px;}
+nav li.here {background-color: #67a7e3; color: white;}
+nav a {display: block; text-decoration: none;}
+/*
+nav ul{margin:0;padding:0 1em 0 0;text-align:center}
+nav li{display:inline;padding-left:1em}
+*/
+div#main {margin: 10px 2em 0 200px;}
+div#main h4 {margin: 0;}
