@@ -2,6 +2,16 @@
 Dance programs
 ==============
 
+* `25 Apr. 2015`_: Houston (HATDS) dance w/ *Subject to Change*
+* `26 Apr. 2014`_: Houston (HATDS) dance w/ *Contra Dan's*
+* `22 Mar. 2014`_: Houston (HATDS) dance w/ *Perfect Fifth*
+* `13 July 2013`_: Houston (HATDS) dance w/ *Laughing Lizards*
+* `26 Jan. 2013`_: Houston (HATDS) dance w/ *Jalapeno Honey*
+* `13 Oct. 2012`_: Houston (HATDS) dance w/ *Contra Dan's*
+* `23 June 2012`_: Houston (HATDS) dance w/ *Contra Dan's*
+* `25 Feb. 2012`_: Houston (HATDS) dance w/ *ContraDictions*
+* `25 June 2011`_: Houston (HATDS) dance w/ *Some Fairly Fine Folk*
+* `16 Apr. 2011`_: Austin 3rd Saturday dance w/ *Katz n' Jammin*
 * `12 Mar. 2011`_: Houston (HATDS) dance w/ *Perfect 5th*
 * `12 Feb. 2011`_: Houston (HATDS) dance w/ *Perfect 5th*
 * `8 Jan. 2011`_: Houston (HATDS) dance w/ *Perfect 5th*
@@ -23,6 +33,16 @@ Dance programs
 * `10 Nov. 2007`_: San Antonio dance w/ *Heather Gilmer & Kendall Rogers*
 * `13 Oct. 2007`_: Houston (HATDS) dance w/ *Notorious*
 
+.. _25 Apr. 2015: 20150425.html
+.. _26 Apr. 2014: 20140426.html
+.. _22 Mar. 2014: 20140322.html
+.. _13 July 2013: 20130713.html
+.. _26 Jan. 2013: 20130126.html
+.. _13 Oct. 2012: 20121013.html
+.. _23 June 2012: 20120623.html
+.. _25 Feb. 2012: 20120225.html
+.. _25 June 2011: 20110625.html
+.. _16 Apr. 2011: 20110416.html
 .. _12 Mar. 2011: 20110312.html
 .. _12 Feb. 2011: 20110212.html
 .. _8 Jan. 2011: 20110108.html

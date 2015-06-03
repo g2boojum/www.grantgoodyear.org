@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteRule ^~grant/(.*)$ $1
+RewriteRule ^Home/tutoring$ tutoring.html
+RewriteRule ^contra$ contra.html
+AddCharset UTF-8 .rst

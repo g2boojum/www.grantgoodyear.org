@@ -222,6 +222,7 @@ table {
   margin-bottom: 0.5em }
 
 td, th {
+  font-size: 120%;
   padding-left: 0.5em ;
   padding-right: 0.5em ;
   border: hidden;

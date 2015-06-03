@@ -2,12 +2,15 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Grant Goodyear's contra dancing page</title>
         <!--[if lt IE 9]>
             <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
         <script src="modernizr.min.js"></script>
-        <link rel="stylesheet" href="style.css" />
+        <script src="respimage.min.js"></script>
+        <link rel="stylesheet" media="(min-width: 640px)" href="style.css" />
+        <link rel="stylesheet" media="(max-width: 640px)" href="smallstyle.css" />
     </head>
     <body>
         <header>
@@ -29,7 +32,12 @@
         </nav>
         <div id="main">
             <h4>Contra dancing</h4>
-            <p><a href="http://www.flickr.com/photos/g2boojum/627097172/" rel="nofollow" title="contra_20070624_10.jpg by g2boojum, on Flickr"><img alt="contra_20070624_10.jpg" height="332" src="http://farm2.static.flickr.com/1389/627097172_6157bf76a2.jpg" width="500"></a></p>
+            <p><a href="http://www.flickr.com/photos/g2boojum/627097172/" rel="nofollow" title="contra_20070624_10.jpg by g2boojum, on Flickr">
+                <picture>
+                    <source media="(min-width: 600px)" srcset="med_contra.jpg">
+                    <img alt="Contra dancers" src="small_contra.jpg">
+                </picture>
+            </a></p>
             <table>
                 <tbody valign="top">
                     <tr>

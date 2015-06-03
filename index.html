@@ -2,12 +2,15 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Grant Goodyear's web site</title>
         <!--[if lt IE 9]>
             <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
         <script src="modernizr.min.js"></script>
-        <link rel="stylesheet" href="style.css" />
+        <script src="picturefill.js" async></script>
+        <link rel="stylesheet" media="(min-width: 640px)" href="style.css" />
+        <link rel="stylesheet" media="(max-width: 640px)" href="smallstyle.css" />
     </head>
     <body>
         <header>
@@ -28,13 +31,20 @@
             </ul>
         </nav>
         <div id="main">
+            <picture>
+                <source media="(min-width: 600px)" srcset="self_portrait/medium500.jpg">
+                <source media="(min-width: 300px)" srcset="self_portrait/small240.jpg">
+                <img src="self_portrait/square150.jpg">
+            </picture>
+        <!--
         <a href="http://www.flickr.com/photos/g2boojum/382404804/" rel="nofollow" title="Overly serious self portrait by g2boojum, on Flickr">
             <img alt="Overly serious self portrait" height="333" src="http://farm1.static.flickr.com/127/382404804_9a124469c5.jpg" width="500">
         </a>
+        !-->
         <p>
         I'm a theoretical chemist who's now a nuclear physicist designing and characterizing
         nuclear well logging tools for <a href="http://www.halliburton.com">Halliburton</a>. I'm married to <a href="http://sarahgoodyear.blogspot.com">Sarah</a>.  In my occasional
-        spare time I'm a <a href="https://sites.google.com/site/g2boojum/contra">contra dance caller</a>, a <a href="http://www.gentoo.org">Gentoo Linux</a> developer, and an amateur
+        spare time I'm a <a href="contra.html">contra dance caller</a>, a <a href="http://www.gentoo.org">Gentoo Linux</a> developer, and an amateur
         <a href="http://www.flickr.com/photos/g2boojum/">photographer</a>.
         </p>
     </div>
