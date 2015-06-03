@@ -1,3 +1,6 @@
+.. meta::
+	:viewport: width=device-width, initial-scale=1.0
+
 ====================
 13 Oct. 2007 program
 ====================
