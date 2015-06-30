@@ -5,8 +5,10 @@
 27 June 2015 program
 =====================
 
-:Location: HATDS
-:Band: *John, Teresa, and the Doyles*
+Location: 
+    HATDS
+Band: 
+    *John, Teresa, and the Doyles*
 
 .. contents:: Dance index
 
@@ -59,6 +61,22 @@ B2.  \( 8) 1s up center to top, separate to bottom
 ==== ===== ===
 
 
+Rockin' Robin (Rick Mohr)
+-------------------------
+
+Improper
+
+==== ===== ===
+A1.  \( 8) Cir rt
+..   \( 8) N almd lf 1×, M pull by rt
+A2.  \(16) hey, P st pass lf sh
+B1.  \(16) P bal & sw
+B2.  \(10) Cir lf 1 1/4 (to orig pos)
+..   \( 6) Cpls zig lf, then zag rt, 
+           to pass N cpl by W rt sh
+==== ===== ===
+
+
 
 CDS Reel (Ted Sannella, Sept. 1984)
 -----------------------------------
@@ -76,22 +94,6 @@ B1.  \( 8) lf-hd star 3/4
 ..   \( 8) P sw
 B2.  \( 8) M almd lf 1 1/2
 ..   \( 8) N sw (same N as in A1)
-==== ===== ===
-
-
-Rockin' Robin (Rick Mohr)
--------------------------
-
-Improper
-
-==== ===== ===
-A1.  \( 8) Cir rt
-..   \( 8) N almd lf 1×, M pull by rt
-A2.  \(16) hey, P st pass lf sh
-B1.  \(16) P bal & sw
-B2.  \(10) Cir lf 1 1/4 (to orig pos)
-..   \( 6) Cpls zig lf, then zag rt, 
-           to pass N cpl by W rt sh
 ==== ===== ===
 
 
@@ -153,17 +155,17 @@ There is no way to peace, peace is the way (Erik Hoffman)
 
 Becket
 
-==== ===== ===
-A1.  \( 8) W dsd
-..   \( 8) P sw
-A2.  \( 8) M almd lf 1 1/2
-..   \( 8) N sw
-B1.  \( 8) Long lines fwd & bk
-..   \( 8) W almd rt 1 1/2
-B2.  \( 8) W pick up P, star promenade 3/4
-..   \( 8) Approaching (new) M take lf hands, star promenade 3/4,
-           butterfly whirl
-==== ===== ===
+==== ==== ===
+A1.  \(8) W dsd
+..   \(8) P sw
+A2.  \(8) M almd lf 1 1/2
+..   \(8) N sw
+B1.  \(8) Long lines fwd & bk
+..   \(8) W almd rt 1 1/2
+B2.  \(8) W pick up P, star promenade 3/4
+..   \(8) Approaching (new) M take lf hands, star promenade 3/4,
+          butterfly whirl
+==== ==== ===
 
 
 
