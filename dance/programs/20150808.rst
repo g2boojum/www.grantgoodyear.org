@@ -99,8 +99,8 @@ B2.  \( 8) W ch
 (break)
 
 
-Black Mountain Reel (Tom Hinds) (no walkthrough)
-------------------------------------------------
+Black Mountain Reel (Tom Hinds)
+-------------------------------
 
 Improper
 
@@ -184,6 +184,4 @@ B2.  \( 8) Cir lf 3/4
 ..   \( 8) N almd rt 1 1/2
 ==== ===== ===
 
-Dance called without a walkthrough.
-
-
+Note: The original version of the dance does not have the P balance in B1.
