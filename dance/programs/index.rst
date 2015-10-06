@@ -5,6 +5,7 @@
 Dance programs
 ==============
 
+* `10 Oct. 2015`_: Houston (HATDS) dance w/ *Subject to Change*
 * `8 Aug. 2015`_: Houston (HATDS) dance w/ *Subject to Change*
 * `27 June 2015`_: Houston (HATDS) dance w/ *Teresa, Bloom, and the Doyles*
 * `25 Apr. 2015`_: Houston (HATDS) dance w/ *Subject to Change*
@@ -38,6 +39,7 @@ Dance programs
 * `10 Nov. 2007`_: San Antonio dance w/ *Heather Gilmer & Kendall Rogers*
 * `13 Oct. 2007`_: Houston (HATDS) dance w/ *Notorious*
 
+.. _10 Oct. 2015: 20151010.html
 .. _8 Aug. 2015: 20150808.html
 .. _27 June 2015: 20150627.html
 .. _25 Apr. 2015: 20150425.html
