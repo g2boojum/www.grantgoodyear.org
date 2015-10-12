@@ -167,7 +167,6 @@ A1.  \(16) 1s down outside, turn alone, return, step between 2s
 A2.  \(16) 1s down center, turn alone, return, cast off around 2s
 B1.  \(16) 1s turn contra corners
 B2.  \(16) 1s bal & sw in center, end facing down
-..   \( 8) W ch
 ==== ===== ====
 
 
@@ -186,6 +185,22 @@ B1.  \( 8) Cir lf 3/4
 B2.  \( 8) Long lines fwd & bk
 ..   \( 8) W dsd 1 1/2
 ==== ===== ====
+
+
+Kitchen Stomp (Becky Hill)
+--------------------------
+
+Improper
+
+==== ===== ===
+A1.  \(16) N bal & sw
+A2.  \( 8) M almd lf 1 1/2
+..   \( 8) P sw
+B1.  \( 8) W ch, end in ring of 4
+..   \( 8) Bal ring, Petronella twirl to rt
+B2.  \( 8) Bal ring, Petronella twirl
+..   \( 8) Star lf
+==== ===== ===
 
 
 Delphiniums & Daisies (Tanya Rotenberg)
