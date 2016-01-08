@@ -5,8 +5,10 @@
 9 Jan. 2016 program
 ====================
 
-**Location**: HATDS
-**Band**: *Laughing Lizards*
+**Location**: 
+    HATDS
+**Band**: 
+    *Laughing Lizards*
 
 .. contents:: Dance index
 
