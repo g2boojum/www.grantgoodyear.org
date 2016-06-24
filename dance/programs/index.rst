@@ -5,6 +5,7 @@
 Dance programs
 ==============
 
+* `25 June 2016`_: Houston (HATDS) dance w/ *Subject to Change*
 * `9 Jan. 2016`_: Houston (HATDS) dance w/ *Laughing Lizards*
 * `10 Oct. 2015`_: Houston (HATDS) dance w/ *Subject to Change*
 * `8 Aug. 2015`_: Houston (HATDS) dance w/ *Subject to Change*
@@ -40,6 +41,7 @@ Dance programs
 * `10 Nov. 2007`_: San Antonio dance w/ *Heather Gilmer & Kendall Rogers*
 * `13 Oct. 2007`_: Houston (HATDS) dance w/ *Notorious*
 
+.. _25 June 2016: 20160625.html
 .. _9 Jan. 2016: 20160109.html
 .. _10 Oct. 2015: 20151010.html
 .. _8 Aug. 2015: 20150808.html
