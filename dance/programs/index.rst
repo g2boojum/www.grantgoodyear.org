@@ -5,6 +5,7 @@
 Dance programs
 ==============
 
+* `24 June 2017`_: Houston (HATDS) dance w/ *Subject to Change*
 * `30 Apr. 2017`_: San Marcos (SMCDTX) dance w/ *O'Malarkey*
 * `11 Mar. 2017`_: Houston (HATDS) dance w/ *Subject to Change*
 * `26 Nov. 2016`_: Houston (HATDS) dance w/ *Jalapeno Honey*
@@ -46,6 +47,7 @@ Dance programs
 * `10 Nov. 2007`_: San Antonio dance w/ *Heather Gilmer & Kendall Rogers*
 * `13 Oct. 2007`_: Houston (HATDS) dance w/ *Notorious*
 
+.. _24 June 2017: 20170624.html
 .. _30 Apr. 2017: 20170430.html
 .. _11 Mar. 2017: 20170311.html
 .. _26 Nov. 2016: 20161126.html

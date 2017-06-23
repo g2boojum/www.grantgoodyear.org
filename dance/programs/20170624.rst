@@ -1,0 +1,209 @@
+.. meta::
+	:viewport: width=device-width, initial-scale=1.0
+
+====================
+24 June 2015 program
+====================
+
+:Location: HATDS
+:Band: *Subject to Change*
+
+.. contents:: Dance index
+
+
+The Nice Combination (Gene Hubert)
+----------------------------------
+
+Improper
+
+==== ===== ===
+A1.  \(16) N bal & sw, end facing dn
+A2.  \(16) Down hall, turn as cpls, ret, bend
+B1.  \( 6) Cir lf 3/4
+..   \(10) P sw
+B2.  \( 8) W ch
+..   \( 8) Star lf
+==== ===== ===
+
+The Flircle (Tony Parkes, Oct. 1990)
+------------------------------------
+
+Circle mixer
+
+==== ===== ===
+A1.  \(16) Into the center and back, 2×
+A2.  \( 8) P almd rt 1½
+..   \( 8) P almd lf 1½
+B1.  \(16) Corner gypsy & sw
+B2.  \(16) Those corners promenade
+==== ===== ===
+
+CDS Reel (Ted Sannella, Sept. 1984)
+-----------------------------------
+
+Improper
+
+More common no-swing-to-swing version:
+
+==== ===== ===
+A1.  \( 8) Long lines fwd & bk
+..   \( 8) N sw
+A2.  \( 8) Whole set cir lf
+..   \( 8) Whole set cir rt
+B1.  \( 8) lf-hd star ¾
+..   \( 8) P sw
+B2.  \( 8) M almd lf 1½
+..   \( 8) N sw (same N as in A1)
+==== ===== ===
+
+Grant's Give & Take (G2, 1999)
+------------------------------
+
+Becket
+
+==== ===== ===
+A1.  \( 8) Cir lf
+..   \( 8) W ch
+A2.  \(16) Hey
+B1.  \(16) N sw
+B2.  \(16) Give & take, P sw
+==== ===== ===
+
+Notes:
+
+* After the first time through, A1 is on a slight left diagonal
+* Give & take: long lines go forward (2), M bring back P (2), swing (12)
+
+Cherokee Shuffle (David Kaynor)
+-------------------------------
+
+Improper
+
+==== ===== ===
+A1.  \( 8) N dsd
+..   \( 8) Cir lf
+A2.  \( 8) N bal & sw
+B1.  \( 8) M almd lf ½, bal wave
+..   \( 8) P sw
+B2.  \( 8) Cir lf ¾
+..   \( 8) Bal ring, CA tw
+==== ===== ===
+
+Wish they could all be CA twirls (Jim Kitch)
+--------------------------------------------
+
+Improper
+
+==== ===== ===
+A1.  \( 8) Cir lf 1/2
+..   \( 8) N sw
+A2.  \( 8) M almd lf 1 1/2
+..   \( 8) M pick up P, star promenade across, butterfly whirl
+B1.  \( 8) W gypsy
+..   \( 8) P sw
+B2.  \( 8) Bal ring, Petronella twirl
+..   \( 8) Bal ring, CA twirl
+==== ===== ===
+
+Midwest Folklore (Orace Johnson)
+--------------------------------
+
+Becket, prog cw
+
+==== ===== ===
+A1.  \( 8) Slide lf, cir lf ¾
+..   \( 8) N dsd
+A2.  \(16) N bal & sw
+B1.  \( 8) Cir lf ¾
+..   \( 8) P dsd
+B2.  \(16) P bal & sw
+==== ===== ===
+
+
+(break)
+
+
+The second time around (Jim Kitch)
+----------------------------------
+
+Improper
+
+==== ===== ===
+A1.  \(16) N gypsy & sw
+A2.  \( 8) M almd lf 1 1/2
+..   \( 8) 1/2 hey
+B1.  \(16) P gyspy & sw
+B2.  \( 8) Long lines
+..   \( 8) Cir lf 3/4, pass thru
+==== ===== ===
+
+
+Fiddleheads (Ted Sannella, 23 Feb. 1983)
+----------------------------------------
+
+improper
+
++-----+------+----------------------------------------------+
+| A1. | \( 8)| 1s cross over, loop lf around 1 into center  |
+|     |      | (M1 face up, W1 face dn) (*)                 |
++-----+------+----------------------------------------------+
+|     | \( 8)| bal diamond, petronella twirl to rt          |
++-----+------+----------------------------------------------+
+| A2. | \( 8)| bal diamond, petronella twirl to rt          |
++-----+------+----------------------------------------------+
+|     | \( 8)| 1s sw, end facing dn                         |
++-----+------+----------------------------------------------+
+| B1. | \(16)| 4-in-line dn hall,                           |
+|     |      | 1s turn as cpls, 2s turn alone, ret, cast    |
++-----+------+----------------------------------------------+
+| B2. | \( 4)| Cir lf 1/2                                   |
++-----+------+----------------------------------------------+
+|     | \(12)| N sw, end facing across                      |
++-----+------+----------------------------------------------+
+
+(*) 1s not with your P in A1
+
+
+With thanks to the dean (Steve Zakon-Anderson)
+----------------------------------------------
+
+Improper, dbl prog
+
+==== ===== ====
+A1.  \( 8) N almd lf 1½
+..   \( 8) W ch to P
+A2.  \( 4) W almd rt
+..   \(12) P sw
+B1.  \( 8) Cir lf
+..   \( 8) Slide lf, cir lf ¾
+B2.  \( 8) N dsd
+..   \( 8) N almd rt 1½
+==== ===== ====
+
+
+Chorus Jig (Trad)
+-----------------
+
+Proper
+
+==== ===== ====
+A1.  \(16) 1s down outside, turn alone, return, step between 2s
+A2.  \(16) 1s down center, turn alone, return, cast off around 2s
+B1.  \(16) 1s turn contra corners
+B2.  \(16) 1s bal & sw in center, end facing down
+..   \( 8) W ch
+==== ===== ====
+
+Dancing Bear (Becky Hill)
+-------------------------
+
+Improper
+
+==== ===== ===
+A1.  \( 8) N almd rt 1/2, change hands, almd lf 1×
+..   \( 8) W ch
+A2.  \(16) Hey
+B1.  \(16) P bal & sw
+B2.  \( 8) W ch
+..   \( 8) Star lf
+==== ===== ===
