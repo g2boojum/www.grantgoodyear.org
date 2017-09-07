@@ -5,8 +5,10 @@
 9 Sept. 2017 program
 ====================
 
-:Location: HATDS
-:Band: *Subject to Change*
+=============  ===
+**Location:**  HATDS
+**Band:**      *Subject to Change*
+=============  ===
 
 .. contents:: Dance index
 
@@ -140,6 +142,30 @@ B2.  \( 8) Long lines
 ..   \( 8) Cir lf 3/4, pass thru
 ==== ===== ===
 
+Wizard's Walk (Ruth Ungar)
+--------------------------
+
+Improper
+
+==== ===== ===
+A1.  \( 8) Cir lf ½, bal ring
+..   \( 8) Cir lf ½, bal ring
+A2.  \(12) Square through 5,(†) starting w/ N
+..   \( 8) P lf sh gypsy 1×
+B1.  \(16) P bal & sw
+B2.  \(16) Wizard walk(*)
+==== ===== ===
+
+This dance has its own special music (also called "Wizard's Walk",
+by the author's father).
+
+(†) A right-and-left grand around the ring of 4 people, 5 places.
+M move CW, W move CCW.
+
+(*) Everybody dances forward two cpls, then backs up two cpls (back
+to place), an extended mirror do-si-do. 1s outside, inside, outside,
+inside; 2s inside, outside, inside, outside.
+
 Sarah Said Yes (Grant Goodyear, 14 Dec. 2001)
 ---------------------------------------------
 
@@ -177,27 +203,6 @@ B2.  \( 8) Rt & lf thru
 
 (*) Note that shadow is in next wave, slightly to rt
 
-
-Levi Jackson Rag (Pat Shaw)
----------------------------
-
-5-cpl set, top cpl facing down (improper), other 4 cpls becket
-
-==== ===== ===
-A1.  \( 8) Sides rt & lf thru while 1s down center past 2 cpls
-..   \( 8) Sides rt & lf back while 1s down center to bottom
-A2.  \( 8) 1s separate, come up outside to top, while sides cir lf
-..   \( 8) All P dsd
-B1.  \(16) W grand chain (2x)
-B2.  \(16) New P promenade 1 place, bal & sw
-==== ===== ===
-
-In the grand chain the women leave their gent, pass another gent,
-and are courtesy turned by the next gent.  When this dance breaks
-down, it's generally because the grand chain is danced snappy
-enough.
-
-
 Delphiniums & Daisies (Tanya Rotenberg)
 ---------------------------------------
 
@@ -207,10 +212,12 @@ Improper
 A1.  \( 8) N almd lf 1 1/2
 ..   \( 8) W ch
 A2.  \(16) Hey
-B1.  \(16) P bal & sw
+B1.  \(16) P bal & sw(*)
 B2.  \( 8) Cir lf 3/4
 ..   \( 8) N almd rt 1 1/2
 ==== ===== ===
+
+(*) Original lacks the balance in B1.
 
 Dance called without a walkthrough.
 
