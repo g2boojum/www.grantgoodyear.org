@@ -43,21 +43,6 @@ B1.  \(16) New P bal & sw
 B2.  \(16) Promenade
 ==== ===== ===
 
-Becket Brigade (Carol Ormand)
------------------------------
-
-Becket
-
-==== ===== ===
-A1.  \( 8) Cir lf
-..   \( 8) P sw
-A2.  \( 8) Long lines fwd & bk
-..   \( 8) M almd lf 1½
-B1.  \(16) N gypsy & sw
-B2.  \( 8) W ch
-..   \( 8) Cir lf ½; slide lf to new cpl
-==== ===== ===
-
 Star Trek (Mike Richardson, 27 Sept. 1990)
 ------------------------------------------
 Becket (prog cw)
@@ -93,19 +78,40 @@ Note:
   end to B2 is "N dsd 1 1/2 to new waves" after the 
   "Cir lf 3/4".
 
-Down but not out (Carol Ormand)
--------------------------------
+Salute to Larry Jennings, original version (Ted Sannella)
+---------------------------------------------------------
 
 Improper
 
 ==== ===== ===
-A1.  \(16) 1s down center, turn as cpl, ret to place, CA tw
-A2.  \(16) N bal & sw
-B1.  \( 8) W almd rt, N almd lf ½, M pull by to P
-..   \( 8) P sw
-B2.  \( 8) Promenade across
-..   \( 8) Cir lf ¾, 2s arch, 1s duck through
+A1.  \( 8) Long lines fwd & bk
+..   \( 8) 1s sw (end facing dn)
+A2.  \( 8) Cir lf
+..   \( 8) N dsd
+B1.  \(16) Grand rt & lf along set
+B2.  \(16) N bal & sw
 ==== ===== ===
+
+Notes:
+
+* Grand rt & lf: N rt, N2 lf, N3 rt, N4 lf almd, N3 rt, N2 lf,
+  give rt hand to N.  The grand rt & lf bends around the ends.
+
+Kitchen Stomp (Becky Hill)
+--------------------------
+
+Improper
+
+==== ===== ===
+A1.  \(16) N bal & sw
+A2.  \( 8) M almd lf 1½
+..   \( 8) P sw
+B1.  \( 8) W ch, end in ring of 4
+..   \( 8) Bal ring, Petronella twirl to rt
+B2.  \( 8) Bal ring, Petronella twirl
+..   \( 8) Star lf
+==== ===== ===
+
 
 Dancing Bear (Becky Hill)
 -------------------------
@@ -138,51 +144,67 @@ B2.  \( 8) W ch
 ..   \( 8) Star lf
 ==== ===== ===
 
-MN-NY happy returns (Carol Ormand)
-----------------------------------
+The Dogleaf Reel (Lisa Greenleaf)
+---------------------------------
+
+Proper
+
+==== ===== ====
+A1.  \( 8) Cir lf
+..   \( 8) 1s sw, end facing dn
+A2.  \(16) 4-in-line down hall, turn alone, ret, bend
+B1.  \(16) N bal & sw
+B2.  \(16) 1s ½ fig 8 up, 2s sw end facing up(*)
+==== ===== ====
+
+(*) 2s swing as soon as 1s have cleared the center
+
+Fidgety Feet (Mark Richardson)
+------------------------------
 
 Becket
 
 ==== ===== ===
-A1.  \( 8) Long lines fwd & bk
-..   \( 8) W ch
-A2.  \( 8) Star lf
-..   \( 8) Rt diag W ch
-B1.  \(16) Hey (straight across, P in diff set)
-B2.  \(16) P gypsy & sw
+A1.  \( 8) Cir lf 3/4, pass thru
+..   \( 8) W almd lf 1 1/2, give rt hd to P in wavy line across
+A2.  \(16) Bal wave, slide rt, bal wave, slide lf (Rory O'More)
+B1.  \(16) P almd rt 1/2, hey (M pass lf sh)
+B2.  \(16) P sw
 ==== ===== ===
 
-Beneficial Tradition (Dan Pearl)
---------------------------------
-
-Becket
-
-==== ===== ===
-A1.  \( 8) W almd lf to wavy line across, bal wave
-..   \( 8) P sw
-A2.  \( 6) Cir lf 3/4
-..   \(10) N sw
-B1.  \( 8) W ch to P
-..   \( 8) Long lines fwd & bk
-B2.  \( 4) Jigsaw: N pull by lf hands (across), face back in
-..   \( 4) same sex on rt diag: rt pull by, face back in
-..   \( 4) opposite sex across, lf pull by, face back in
-..   \( 4) same sex on rt diag: rt pull by, face back in
-==== ===== ===
-
-Delphiniums & Daisies (Tanya Rotenberg)
----------------------------------------
+Chasing Fire (Grant Goodyear, 15 Mar. 1998)
+-------------------------------------------
 
 Improper
 
+==== ===== ====
+A1.  \(8)  Circle left
+..   \(8)  N swing
+A2.  \(4)  Women cross (trade places w/ opposite lady)
+..   \(4)  Men cross (trade places w/ opposite gent)
+..   \(4)  P cross
+..   \(4)  1s face down/2s face up; pass through
+B1.  \(8)  1s: w/ couple behind, lady 'round two, gent cuts through
+..   \(8)  1s: gent around two, lady cuts through
+B2.  \(4)  1s: lady turns back over right shoulder
+..   \(12) 1s: swing P, end facing down
+==== ===== ====
+
+Notes:
+    1. Written for Kelsi Snoke 1 week after her 24th birthday; revised 12 Feb. 2000
+    2. Can alternate 1s and 2s active in B
+
+The Reunion (Gene Hubert, 1 Apr. 1984)
+--------------------------------------
+
+Becket, dbl prog, even number of cpls
+
 ==== ===== ===
-A1.  \( 8) N almd lf 1 1/2
-..   \( 8) W ch
+A1.  \( 8) Lf diag W ch
+..   \( 8) W chain across (to shadow)
 A2.  \(16) Hey
 B1.  \(16) P bal & sw
-B2.  \( 8) Cir lf 3/4
-..   \( 8) N almd rt 1 1/2
+B2.  \( 8) Cir lf 3/4, pass thru
+..   \( 8) Cir rt 3/4
 ==== ===== ===
-
-Done as a no-walk-through dance to close out the evening.
 
