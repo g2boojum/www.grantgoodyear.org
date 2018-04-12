@@ -5,6 +5,7 @@
 Dance programs
 ==============
 
+* `14 Apr. 2018`_: Houston (HATDS) dance w/ *Subject to Change*
 * `24 Mar. 2018`_: Houston (HATDS) dance w/ *Contra Dan's*
 * `25 Feb. 2018`_: San Marcos (SMCDTX) dance w/ *O'Malarkey*
 * `25 Nov. 2017`_: Houston (HATDS) dance w/ *Four for Nothing*
@@ -51,6 +52,7 @@ Dance programs
 * `10 Nov. 2007`_: San Antonio dance w/ *Heather Gilmer & Kendall Rogers*
 * `13 Oct. 2007`_: Houston (HATDS) dance w/ *Notorious*
 
+.. _14 Apr. 2018: 20180414.html
 .. _24 Mar. 2018: 20180324.html
 .. _25 Feb. 2018: 20180225.html
 .. _25 Nov. 2017: 20171125.html
