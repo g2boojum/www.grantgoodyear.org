@@ -197,7 +197,6 @@ A1.  \(8)  Circle left (bucksaw; on lft diag after 1st time thru)
 ..   \(8)  P gypsy, once and a bit
 A2.  \(8)  M allemand left 1 1/2
 ..   \(8)  N swing
-A2.  \(8)  M gypsy
 B1.  \(8)  1/2 hey to the other side
 ..   \(2)  W pass rt shoulders (really a 5/8 hey)
 ..   \(6)  P gypsy
