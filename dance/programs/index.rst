@@ -5,6 +5,7 @@
 Dance programs
 ==============
 
+* `8 Dec. 2018`_: Houston (HATDS) Holiday Ball w/ *Subject to Change*
 * `24 Nov. 2018`_: Houston (HATDS) dance w/ *Contra Dan's*
 * `13 Oct. 2018`_: Houston (HATDS) dance w/ *Ceol na Croi*
 * `9 Sept. 2018`_: Houston (HATDS) dance w/ *Rock Prairie Ramblers*
@@ -55,6 +56,7 @@ Dance programs
 * `10 Nov. 2007`_: San Antonio dance w/ *Heather Gilmer & Kendall Rogers*
 * `13 Oct. 2007`_: Houston (HATDS) dance w/ *Notorious*
 
+.. _`8 Dec. 2018`: 20181208.html
 .. _`24 Nov. 2018`: 20181124.html
 .. _`13 Oct. 2018`: 20181013.html
 .. _`9 Sept. 2018`: 20180908.html
