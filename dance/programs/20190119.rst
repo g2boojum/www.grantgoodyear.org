@@ -128,18 +128,18 @@ B2.  \( 8) W ch
 
 (break)
 
-The baby rose (David Kaynor)
-----------------------------
+Hey Fever (Tony Parkes, Dec. 1987)
+----------------------------------
 
 Improper
 
 ==== ===== ===
 A1.  \(16) N bal & sw
-A2.  \( 8) Cir lf 3/4
-..   \( 8) P dsd
-B1.  \(16) P bal & sw
-B2.  \( 8) W ch
-..   \( 8) Star lf
+A2.  \( 8) M almd lf 1 1/2
+..   \( 8) P sw
+B1.  \( 8) Promenade across
+..   \( 8) W ch
+B2.  \(16) Hey
 ==== ===== ===
 
 
