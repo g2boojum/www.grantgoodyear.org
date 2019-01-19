@@ -30,20 +30,6 @@ B2.  \( 8) Long lines fwd & bk
 ..   \( 8) 1s sw, end facing dn
 ==== ===== ====
 
-The nice combination (Gene Hubert)
-----------------------------------
-
-Improper
-
-==== ===== ===
-A1.  \(16) N bal & sw
-A2.  \(16) 4-in-line dn hall, turn as cpls, ret, bend
-B1.  \( 6) Cir lf ¾ 
-..   \(10) P sw
-B2.  \( 8) W ch
-..   \( 8) Star lf
-==== ===== ===
-
 Circle of Friends (Steve Zakon-Anderson)
 ----------------------------------------
 
@@ -59,7 +45,19 @@ B2.  \( 8) Promenade, W roll back over rt sh
 ..   \( 8) New P promenade
 ==== ===== ===
 
+The nice combination (Gene Hubert)
+----------------------------------
 
+Improper
+
+==== ===== ===
+A1.  \(16) N bal & sw
+A2.  \(16) 4-in-line dn hall, turn as cpls, ret, bend
+B1.  \( 6) Cir lf ¾ 
+..   \(10) P sw
+B2.  \( 8) W ch
+..   \( 8) Star lf
+==== ===== ===
 
 Pearls of Wisdom (Bob Isaacs)
 -----------------------------
