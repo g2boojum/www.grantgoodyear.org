@@ -146,23 +146,6 @@ B2.  \( 8) Long lines
 
 * W turn single over lf sh, M turn single over rt sh
 
-Mary Cay's Reel (David Kaynor)
-------------------------------
-
-Becket
-
-==== ===== ===
-A1.  \( 8) Cir lf ¾, pass thru
-..   \( 8) Next N almd lf
-A2.  \(16) Orig N bal & sw
-B1.  \( 8) Long lines fwd & bk
-..   \( 4) W almd rt ¾, give lf hd to next W
-..   \( 4) W almd lf ¾ (*)
-B2.  \(16) P bal & sw
-==== ===== ===
-
-(*) Men need to step lf to meet P
-
 Symmetrical Force (Fred Field)
 ------------------------------
 
@@ -178,20 +161,6 @@ B1.  \( 4) 4-in-line dn hall
 ..   \( 4) 1s back up (ducking under 2s) to a clover
 B2.  \( 8) Cir lf
 ..   \( 8) 2s arch, pull 1s thru, 1s unwind, 2s arch, shoot 1s thru
-==== ===== ===
-
-The Rendezvous (Dan Pearl, 1980)
---------------------------------
-
-Improper
-
-==== ===== ===
-A1.  \(16) N sw
-A2.  \( 8) Long lines
-..   \( 8) W dsd 1 1/2
-B1.  \(16) P sw
-B2.  \( 8) Cir lf 
-..   \( 8) Slide lf to new cpl, cir lf 3/4
 ==== ===== ===
 
 Delphiniums & Daisies (Tanya Rotenberg)
