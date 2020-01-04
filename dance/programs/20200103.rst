@@ -12,21 +12,8 @@
 
 .. contents:: Dance index
 
-Beaux of Oak Hill (Trad)
-------------------------
-
-Improper
-
-==== ===== ====
-A1.  \(16) N sashay down and back
-A2.  \(16) N bal & sw, end facing across
-B1.  \(16) W ch over and bk
-B2.  \( 8) P promenade across
-..   \( 8) Rt & lf thru
-==== ===== ====
-
-or The Belles of Auburn (Roger Knox, 1958)
-------------------------------------------
+The Belles of Auburn (Roger Knox, 1958)
+---------------------------------------
 
 Improper
 
@@ -43,9 +30,9 @@ The Flircle (Tony Parkes, Oct. 1990)
 Circle mixer
 
 ==== ===== ===
-A1.  \(16) All fwd & bk, 2x
-A2.  \( 8) P almd rt 1 1/2
-..   \( 8) P almd lf 1 1/2, face corner
+A1.  \(16) All fwd & bk, 2×
+A2.  \( 8) P almd rt 1½
+..   \( 8) P almd lf 1½, face corner
 B1.  \( 8) Corners (new P) gypsy & sw
 B2.  \(16) Promenade
 ==== ===== ===
@@ -110,7 +97,7 @@ B2.  \( 8) Bal ring, Petronella twirl
 Hull's Victory (Trad.)
 ----------------------
 
-Improper
+Proper
 
 ==== ===== ===
 A1.  \( 8) 1s almd rt ½, bal wave across
@@ -174,12 +161,12 @@ Pedal Pushers (Bob Dalsemer, 1989)
 Improper
 
 ==== ===== ===
-A1.  \( 8) M almd lf 1 1/2
+A1.  \( 8) M almd lf 1½
 ..   \( 8) M pick up P, star promenade across, butterfly whirl
 A2.  \( 8) W gypsy
 ..   \( 8) P sw
 B1.  \( 8) Bal ring, pass thru across
-..   \( 8) All turn rt, single-file promenade around ring 3/4
+..   \( 8) All turn rt, single-file promenade around ring ¾
 B2.  \(16) N bal & sw
 ==== ===== ===
 
