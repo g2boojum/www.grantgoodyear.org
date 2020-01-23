@@ -2,7 +2,7 @@
 	:viewport: width=device-width, initial-scale=1.0
 
 ===================
-1 Feb. 2020 program
+8 Feb. 2020 program
 ===================
 
 =============  ===
@@ -68,8 +68,8 @@ Square, w/ an extra person in the center
 \(16) Centers find somebody on outside to swing (remainder is new 9 pin)
 ===== ===
 
-Bouquet Waltz (traditional Appalacian)
---------------------------------------
+Bouquet Waltz (traditional Appalachian)
+---------------------------------------
 
 Square, phrasing essentially nonexistent
 
