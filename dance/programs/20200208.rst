@@ -1,0 +1,135 @@
+.. meta::
+	:viewport: width=device-width, initial-scale=1.0
+
+===================
+1 Feb. 2020 program
+===================
+
+=============  ===
+**Location:**  George Ranch
+**Event:**     Victorians Behaving Badly
+**Band:**      *Subject to Change*
+=============  ===
+
+.. contents:: Dance index
+
+Galopede (Traditional)
+----------------------
+
+Longways proper, 5-6 cpls
+
+==== ===== ===
+A1.  \( 8) Long lines fwd & bk
+..   \( 8) Pass thru, turn alone
+A2.  \( 8) Long lines fwd & bk
+..   \( 8) Pass thru, turn alone
+B1.  \( 8) P dsd
+..   \( 8) P two-hand-turn
+B2.  \(16) 1s two-hand-turn down center to bottom, rest move up
+==== ===== ===
+
+Virginia Reel (Traditional)
+---------------------------
+
+Longways proper, 5-6 cpls
+
+===== ===
+\( 8) Long lines fwd & bk
+\( 8) P almd rt, ret to place
+\( 8) P almd lf, ret to place
+\( 8) P dsd
+\(16) 1s sashay down & bk
+\( 8) 1s almd rt 1 1/2
+\(??) reel the set to bottom
+\( 8) 1s sashay back to top
+\(??) 1s separate, cast to bottom, others follow
+..    1s arch, others meet P, duck, ret
+===== ===
+
+(break)
+-------
+
+9 Pin (traditional)
+-------------------
+
+Square, w/ an extra person in the center
+
+===== ===
+\( 8) H cir lf (around 9 pin)
+\( 8) S cir lf (around 9 pin)
+\( 8) H sashay up/dn, passing to rt of 9 pin
+\( 8) S sashay lf/rt, passing to rt of 9 pin
+\( 8) 9 pin sw w/ one member of cpl 1, other person cir in  center
+\( 8) 9 pin sw w/ one member of cpl 2, other person cir in center
+\( 8) 9 pin sw w/ one member of cpl 3, other person cir in center
+\( 8) 9 pin sw w/ one member of cpl 4, other person cir in center
+\( 8) 9 pin join center ring, cir lf
+\(…)  center ring cir rt, star, whatever
+\(16) Centers find somebody on outside to swing (remainder is new 9 pin)
+===== ===
+
+Bouquet Waltz (traditional Appalacian)
+--------------------------------------
+
+Square, phrasing essentially nonexistent
+
+===== ===
+\( 8) M1 (then 2, 3, 4) lead rt, cir 3 1×
+\( 4) Lead man to the next cpl (3), lead lady to cpl 2
+\(12) Circles of 3 bouquet waltz(*)
+\( 4) Lead man, lead lady on  to the next (M w/ 4, W w/ 3)
+\(12) Circles of 3 bouquet waltz(*)
+\( 4) Lead lady catch up (to cpl 4), cpl 2 to cpl 3
+\(12) 4×4 bouquet waltz
+\(16) Everybody home and swing your own
+===== ===
+
+Repeat the pattern for each couple.
+
+(*) Bouquet waltz: two circles circling lf, while the
+circles precess around each other "to the right" (ccw)
+
+(break)
+-------
+
+Pop goes the weasel (Traditional)
+---------------------------------
+
+Proper
+
+==== ===== ===
+A1.  \(16) 1s dn outside, turn alone, ret
+A2.  \(16) 1s dn center, turn alone, ret to W2
+B1.  \(12) 3 Cir lf 1½ or 2½, end w/ 1s above W2
+..   \( 4) 1s pop W2 to progressed place, 1s face M2
+B2.  \(12) 3 Cir lf 1½ or 2½, end w/ 1s above M2
+..   \( 4) 1s pop M2 to progressed place, 1s face new N
+==== ===== ===
+
+Jefferson & Liberty (Dudley Briggs var, Jefferson's Reel)
+---------------------------------------------------------
+
+Proper
+
+==== ===== ====
+A1.  \( 8) Cir lf
+..   \( 8) Cir rt
+A2.  \( 8) Star rt
+..   \( 8) Star lf
+B1.  \(16) 1s sep, dn outside, turn alone, ret
+B2.  \( 8) 4-in-line dn hall (1s in center)
+..   \( 8) Centers arch, ends duck through, new circles ret
+==== ===== ====
+
+Haymaker's Jig (Trad)
+---------------------
+
+Improper
+
+==== ===== ===
+A1.  \(16) N bal & sw
+A2.  \(16) 1s bal & sw
+B1.  \(16) 4-in-line dn hall, turn alone, ret, bend
+B2.  \(16) W ch (over and back)
+==== ===== ===
+
