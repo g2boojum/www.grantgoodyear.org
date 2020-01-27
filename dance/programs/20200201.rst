@@ -112,20 +112,20 @@ Notes:
 * 1s lead formation of minor sets in A1 (let go of old Ns)
 * This dance is here partly as set-up for Money Musk, which is just insane.
 
-Pedal Pushers (Bob Dalsemer, 1989)
-----------------------------------
-
-Improper
+Butter (Gene Hubert)
+--------------------
+Becket
 
 ==== ===== ===
-A1.  \( 8) (new) M almd lf 1½
-..   \( 8) M pick up P, star promenade across, butterfly whirl
-A2.  \( 8) W gypsy
-..   \( 8) P sw
-B1.  \( 8) Bal ring, pass thru across
-..   \( 8) All turn rt, single-file promenade around ring ¾
-B2.  \(16) N bal & sw
+A1.  \( 8) (slide lf* and) cir lf 3/4
+..   \( 8) N sw
+A2.  \( 8) Long lines fwd & bk
+..   \( 8) W ch
+B1.  \(16) Hey
+B2.  \(16) P bal & sw
 ==== ===== ===
+
+(*) Only slide lf 1 cpl after the first time through
 
 (break)
 -------
@@ -227,6 +227,21 @@ C.   \(16) 1s & 2s rt & lf thru (over and back)
 Note that the A takes a lot longer to get to the fwd & bk than the dancers
 expect. The same is true of the B almd, but that one's not as much
 a problem. In both cases, careful calling can fix the timing.
+
+Pedal Pushers (Bob Dalsemer, 1989)
+----------------------------------
+
+Improper
+
+==== ===== ===
+A1.  \( 8) (new) M almd lf 1½
+..   \( 8) M pick up P, star promenade across, butterfly whirl
+A2.  \( 8) W gypsy
+..   \( 8) P sw
+B1.  \( 8) Bal ring, pass thru across
+..   \( 8) All turn rt, single-file promenade around ring ¾
+B2.  \(16) N bal & sw
+==== ===== ===
 
 Delphiniums & Daisies (Tanya Rotenberg)
 ---------------------------------------
