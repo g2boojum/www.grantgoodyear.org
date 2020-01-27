@@ -121,15 +121,38 @@ B2.  \( 8) 4-in-line dn hall (1s in center)
 ..   \( 8) Centers arch, ends duck through, new circles ret
 ==== ===== ====
 
-Haymaker's Jig (Trad)
----------------------
+Washington Quickstep (Traditional)
+----------------------------------
 
 Improper
 
 ==== ===== ===
-A1.  \(16) N bal & sw
-A2.  \(16) 1s bal & sw
-B1.  \(16) 4-in-line dn hall, turn alone, ret, bend
-B2.  \(16) W ch (over and back)
+A1.  \( 8) Star rt
+..   \( 8) Star lf
+A2.  \(16) 1s dn center, turn alone, ret, cast off
+B1.  \(16) Rt-and-lf thru, over and back
+B2.  \( 8) Long lines fwd & bk
+..   \( 8) 1s sw
+==== ===== ===
+
+Petronella (Traditional)
+------------------------
+
+Proper
+
+==== ===== ===
+A1.  \( 4) 1s spin clockwise to rt into center,
+           M1 end facing up, W1 end facing dn,
+           while 2s slide up to orig 1s position
+..   \( 4) Everybody take hands in a diamond, bal diamond
+..   \( 4) Everybody spin clockwise one place to right
+..   \( 4) Everybody bal diamond
+A2.  \( 4) Everybody spin clockwise one place to rt
+..   \( 4) Everybody bal diamond
+..   \( 4) Everybody spin clockwise one place to right
+..   \( 4) Everybody bal diamond
+B1.  \(16) 2s spin one place to rt (back home), while
+           1s dn center, turn alone, ret, cast off w/ same-gender N
+B2.  \(16) Rt & lf thru (over and back)
 ==== ===== ===
 
