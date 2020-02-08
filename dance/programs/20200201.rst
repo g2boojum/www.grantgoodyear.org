@@ -77,19 +77,23 @@ B2.  \( 8) 1s up center to top, separate to bottom
 
 I threw this dance in as setup for the upcoming Sackett's Harbor.
 
-Dancing Bear (Becky Hill)
--------------------------
+Grant's Give & Take (G2, 1999)
+------------------------------
 
-Improper
+Becket, CW
 
 ==== ===== ===
-A1.  \( 8) N almd rt ½, change hands, almd lf 1×
+A1.  \( 8) Cir lf
 ..   \( 8) W ch
 A2.  \(16) Hey
-B1.  \(16) P bal & sw
-B2.  \( 8) W ch
-..   \( 8) Star lf
+B1.  \(16) N sw
+B2.  \(16) Give & take, P sw
 ==== ===== ===
+
+Notes:
+
+* After the first time through, A1 is on a slight left diagonal
+* Give & take: long lines go forward (2), M bring back P (2), swing (12)
 
 Sackett's Harbor (Traditional)
 ------------------------------
@@ -114,7 +118,7 @@ Notes:
 
 Butter (Gene Hubert)
 --------------------
-Becket
+Becket, called by Christina Weis
 
 ==== ===== ===
 A1.  \( 8) (slide lf* and) cir lf 3/4
@@ -130,57 +134,10 @@ B2.  \(16) P bal & sw
 (break)
 -------
 
-Three-dance medley (done w/ a rolling start)
---------------------------------------------
-
-
-(a) The Nice Combination (Gene Hubert)
-......................................
-
-Improper
-
-==== ===== ===
-A1.  \(16) N bal & sw, end facing dn
-A2.  \(16) Down hall, turn as cpls, ret, bend
-B1.  \( 6) Cir lf ¾
-..   \(10) P sw
-B2.  \( 8) W ch
-..   \( 8) Star lf
-==== ===== ===
-
-(b) Simplicity Swing (Becky Hill)
-.................................
-
-Improper
-
-==== ===== ===
-A1.  \(16) N bal & sw
-A2.  \( 6) Cir lf ¾
-..   \(10) P sw
-B1.  \( 8) Long lines fwd & bk
-..   \( 8) W ch
-B2.  \( 8) star lf
-..   \( 8) New N dsd
-==== ===== ===
-
-Hey Fever (Tony Parkes, Dec. 1987)
-..................................
-
-Improper
-
-==== ===== ===
-A1.  \(16) N bal & sw
-A2.  \( 8) M almd lf 1 1/2
-..   \( 8) P sw
-B1.  \( 8) Promenade across
-..   \( 8) W ch
-B2.  \(16) Hey
-==== ===== ===
-
 Tica Tica Timing (Dean Snipes)
 ------------------------------
 
-Becket
+Becket, called by Lisa McQuade
 
 ==== ===== ===
 A1.  \( 8) Cir lf ¾
@@ -190,23 +147,6 @@ A2.  \( 8) N promenade across
 B1.  \(16) Bal ring, Petronella twirl (2×)
 B2.  \(16) P bal & sw, slide lf to new cpl
 ==== ===== ===
-
-Earl and Squirrel (Curtis Wailer)
----------------------------------
-
-Improper
-
-==== ===== ===
-A1.  \( 8) W almd rt 1½
-..   \( 8) P sw
-A2.  \( 8) Cir lf ¾
-..   \( 8) N dsd 1¼ to wavy lines across
-B1.  \( 8) Bal wave, slide rt (like Rory O'More)
-B1.  \( 8) Bal wave, slide lf (like Rory O'More)
-B2.  \(16) N bal & sw(*)
-==== ===== ===
-
-(*) At the end of B2, W look on rt diag for new W in A1.
 
 Money Musk (Traditional, 24-bar version)
 ----------------------------------------
@@ -228,21 +168,6 @@ Note that the A takes a lot longer to get to the fwd & bk than the dancers
 expect. The same is true of the B almd, but that one's not as much
 a problem. In both cases, careful calling can fix the timing.
 
-Pedal Pushers (Bob Dalsemer, 1989)
-----------------------------------
-
-Improper
-
-==== ===== ===
-A1.  \( 8) (new) M almd lf 1½
-..   \( 8) M pick up P, star promenade across, butterfly whirl
-A2.  \( 8) W gypsy
-..   \( 8) P sw
-B1.  \( 8) Bal ring, pass thru across
-..   \( 8) All turn rt, single-file promenade around ring ¾
-B2.  \(16) N bal & sw
-==== ===== ===
-
 Delphiniums & Daisies (Tanya Rotenberg)
 ---------------------------------------
 
@@ -259,4 +184,4 @@ B2.  \( 8) Cir lf ¾
 
 (*) Original lacks the balance in B1.
 
-Dance called without a walkthrough.
+Dance called without a walkthrough (and w/ a rolling start)

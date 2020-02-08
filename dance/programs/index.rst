@@ -5,6 +5,9 @@
 Dance programs
 ==============
 
+* `8 Feb 2020`_: "Victorians behaving badly" (ONS) at George Ranch w/ *Subject to Change*
+* `1 Feb 2020`_: Houston (HATDS) dance w/ *Ceol na Croi*
+* `4 Jan 2020`_: Houston (HATDS) dance w/ *Subject to Change*
 * `18 May 2019`_: Houston (HATDS) dance w/ *Contra Dan's*
 * `19 Jan. 2019`_: Houston (HATDS) Holiday Ball w/ *Laughing Lizards*
 * `8 Dec. 2018`_: Houston (HATDS) Holiday Ball w/ *Subject to Change*
@@ -58,6 +61,9 @@ Dance programs
 * `10 Nov. 2007`_: San Antonio dance w/ *Heather Gilmer & Kendall Rogers*
 * `13 Oct. 2007`_: Houston (HATDS) dance w/ *Notorious*
 
+.. _`8 Feb 2020`: 20200208.html
+.. _`1 Feb 2020`: 20200201.html
+.. _`4 Jan 2020`: 20200104.html
 .. _`18 May 2019`: 20190518.html
 .. _`19 Jan. 2019`: 20190119.html
 .. _`8 Dec. 2018`: 20181208.html
