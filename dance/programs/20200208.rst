@@ -68,30 +68,6 @@ Square, w/ an extra person in the center
 \(16) Centers find somebody on outside to swing (remainder is new 9 pin)
 ===== ===
 
-Bouquet Waltz (traditional Appalachian)
----------------------------------------
-
-Square, phrasing essentially nonexistent
-
-===== ===
-\( 8) M1 (then 2, 3, 4) lead rt, cir 3 1×
-\( 4) Lead man to the next cpl (3), lead lady to cpl 2
-\(12) Circles of 3 bouquet waltz(*)
-\( 4) Lead man, lead lady on  to the next (M w/ 4, W w/ 3)
-\(12) Circles of 3 bouquet waltz(*)
-\( 4) Lead lady catch up (to cpl 4), cpl 2 to cpl 3
-\(12) 4×4 bouquet waltz
-\(16) Everybody home and swing your own
-===== ===
-
-Repeat the pattern for each couple.
-
-(*) Bouquet waltz: two circles circling lf, while the
-circles precess around each other "to the right" (ccw)
-
-(break)
--------
-
 Pop goes the weasel (Traditional)
 ---------------------------------
 
@@ -120,6 +96,30 @@ B1.  \(16) 1s sep, dn outside, turn alone, ret
 B2.  \( 8) 4-in-line dn hall (1s in center)
 ..   \( 8) Centers arch, ends duck through, new circles ret
 ==== ===== ====
+
+(planned dances that weren't called)
+------------------------------------
+
+Bouquet Waltz (traditional Appalachian)
+---------------------------------------
+
+Square, phrasing essentially nonexistent
+
+===== ===
+\( 8) M1 (then 2, 3, 4) lead rt, cir 3 1×
+\( 4) Lead man to the next cpl (3), lead lady to cpl 2
+\(12) Circles of 3 bouquet waltz(*)
+\( 4) Lead man, lead lady on  to the next (M w/ 4, W w/ 3)
+\(12) Circles of 3 bouquet waltz(*)
+\( 4) Lead lady catch up (to cpl 4), cpl 2 to cpl 3
+\(12) 4×4 bouquet waltz
+\(16) Everybody home and swing your own
+===== ===
+
+Repeat the pattern for each couple.
+
+(*) Bouquet waltz: two circles circling lf, while the
+circles precess around each other "to the right" (ccw)
 
 Washington Quickstep (Traditional)
 ----------------------------------
