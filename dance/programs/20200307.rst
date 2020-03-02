@@ -1,0 +1,207 @@
+.. meta::
+	:viewport: width=device-width, initial-scale=1.0
+
+===================
+1 Feb. 2020 program
+===================
+
+=============  ===
+**Location:**  HATDS
+**Band:**      *Contra Dan's*
+=============  ===
+
+.. contents:: Dance index
+
+Elegant Whimsy (Grant Goodyear, 8 May 1998)
+-------------------------------------------
+
+Improper
+
+==== ===== ====
+A1.  \( 8) 1s take near hands, promenade down center past 2 cpls
+..   \( 8) 1s turn alone, ret, turn to face N
+A2.  \( 4) N sashay down
+..   \( 4) N balance
+..   \( 4) N sashay back up
+..   \( 4) N balance
+B1.  \(16) N sw
+B2.  \( 8) Long lines fwd & bk
+..   \( 8) 1s sw, end facing dn
+==== ===== ====
+
+Chris & Lisa found each other (Grant Goodyear, Jun. 1997)
+---------------------------------------------------------
+
+Circle mixer
+
+==== ===== ===
+A1.  \(16) P swing
+A2.  \( 8) Cir lf
+..   \( 8) Cir rt
+B1.  \(16) Into center and back, 2×
+B2.  \(16) Give rt hand to P, pull by,
+           single file promenade
+           (Men ccw in center, Women cw outside)
+==== ===== ===
+
+CDS Reel (Ted Sannella, Sept. 1984)
+-----------------------------------
+
+Improper
+
+More common no-swing-to-swing version:
+
+==== ===== ===
+A1.  \( 8) Long lines fwd & bk
+..   \( 8) N sw
+A2.  \( 8) Whole set cir lf
+..   \( 8) Whole set cir rt
+B1.  \( 8) star lf ¾
+..   \( 8) P sw
+B2.  \( 8) M almd lf 1½
+..   \( 8) N sw (same N as in A1)
+==== ===== ===
+
+Shadrack's delight (Tony Parkes, Apr. 1972)
+-------------------------------------------
+
+Improper, no-cast variation
+
+==== ===== ===
+A1.  \( 8) N dsd 1 1/4 to wavy lines (W in center)
+..   \( 4) Bal wave
+..   \( 4) All almd rt 1/2
+A2.  \( 4) Bal wave
+..   \( 4) Men almd lf 1/2
+..   \( 8) P sw, end facing dn
+B1.  \(16) 4-in-line dn hall, turn as cpls, ret, bend line
+B2.  \( 8) Rt & lf thru
+..   \( 8) W ch
+==== ===== ===
+
+The original has:
+
+==== ===== ===
+B1.  \( 8) 4-in-line dn hall, turn as cpls
+..   \( 8) return, centers hand-cast around ends
+==== ===== ===
+
+Monica's Joy (Erik Hoffman)
+---------------------------
+
+Improper
+
+==== ===== ===
+A1.  \( 8) N dsd 1 1/4 to wavy lines (W in center)
+..   \( 8) Almd rt 1/2, men almd lf 1x
+A2.  \(16) Hey (N pass rt sh)
+B1.  \(16) N gypsy & sw
+B2.  \( 8) Cir lf
+..   \( 8) 1s sw, end facing down
+==== ===== ===
+
+
+Fiddleheads (Ted Sannella, 23 Feb. 1983)
+----------------------------------------
+
+improper
+
++-----+------+----------------------------------------------+
+| A1. | \( 8)| 1s cross over, loop lf around 1 into center  |
+|     |      | (M1 face up, W1 face dn) (*)                 |
++-----+------+----------------------------------------------+
+|     | \( 8)| bal diamond, petronella twirl to rt          |
++-----+------+----------------------------------------------+
+| A2. | \( 8)| bal diamond, petronella twirl to rt          |
++-----+------+----------------------------------------------+
+|     | \( 8)| 1s sw, end facing dn                         |
++-----+------+----------------------------------------------+
+| B1. | \(16)| 4-in-line dn hall,                           |
+|     |      | 1s turn as cpls, 2s turn alone, ret, cast    |
++-----+------+----------------------------------------------+
+| B2. | \( 4)| Cir lf 1/2                                   |
++-----+------+----------------------------------------------+
+|     | \(12)| N sw, end facing across                      |
++-----+------+----------------------------------------------+
+
+(*) 1s not with your P in A1
+
+(break)
+-------
+
+The baby rose (David Kaynor)
+----------------------------
+
+Improper, called by Christina Weis
+No walkthrough, or short walkthrough
+
+==== ===== ===
+A1.  \(16) N bal & sw
+A2.  \( 8) Cir lf 3/4
+..   \( 8) P dsd
+B1.  \(16) P bal & sw
+B2.  \( 8) W ch
+..   \( 8) Star lf
+==== ===== ===
+
+Something, called by Christina Weis
+-----------------------------------
+
+Something, called by Christina Weis
+
+
+Sailing in Fair Harbor (Andrea Nettleton)
+-----------------------------------------
+
+Improper
+
+==== ===== ===
+A1.  \( 8) P ½ pousette (W push)
+..   \( 8) M almd rt 1× or 2×
+A2.  \(16) P gypsy & sw
+B1.  \( 8) Rt & lf thru
+..   \( 8) W ch (to N)
+B2.  \(16) Hey; finish w/ M gypsy ½
+==== ===== ===
+
+Notes:
+
+1. For the Pousette, W push P back (and slightly rt) 4 steps,
+   then pull P forward (and slightly rt) 4 steps,
+   to trade places w/ N cpl
+2. At the end of the hey in B2, the M are moving towards the W after
+   the ½ gypsy, so the temptation is to have the M push in the pousette.
+   Don't do that.
+
+Pedal Pushers (Bob Dalsemer, 1989)
+----------------------------------
+
+Improper
+
+==== ===== ===
+A1.  \( 8) M almd lf once and a bit
+..   \( 8) M pick up P, star promenade across, butterfly whirl
+A2.  \( 8) W gypsy
+..   \( 8) P sw, end in ring
+B1.  \( 8) Bal ring, pass thru across
+..   \( 8) All turn rt, single-file promenade 3/4, M turn back
+B2.  \(16) N bal & sw
+==== ===== ===
+
+Delphiniums & Daisies (Tanya Rotenberg)
+---------------------------------------
+
+Improper
+
+==== ===== ===
+A1.  \( 8) N almd lf 1½
+..   \( 8) W ch
+A2.  \(16) Hey
+B1.  \(16) P bal & sw(*)
+B2.  \( 8) Cir lf ¾
+..   \( 8) N almd rt 1½
+==== ===== ===
+
+(*) Original lacks the balance in B1.
+
+Dance called without a walkthrough (and w/ a rolling start)
