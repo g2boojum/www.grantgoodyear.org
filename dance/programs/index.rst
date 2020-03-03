@@ -5,6 +5,7 @@
 Dance programs
 ==============
 
+* `7 Mar. 2020`_: Houston (HATDS) dance w/ *Contra Dan's*
 * `29 Feb 2020`_: TAADA Chestnuts dance w/ *Subject to Change*
 * `8 Feb 2020`_: "Victorians behaving badly" (ONS) at George Ranch w/ *Subject to Change*
 * `1 Feb 2020`_: Houston (HATDS) dance w/ *Ceol na Croi*
@@ -62,6 +63,7 @@ Dance programs
 * `10 Nov. 2007`_: San Antonio dance w/ *Heather Gilmer & Kendall Rogers*
 * `13 Oct. 2007`_: Houston (HATDS) dance w/ *Notorious*
 
+.. _`7 Mar. 2020`: 20200307.html
 .. _`29 Feb 2020`: 20200229.html
 .. _`8 Feb 2020`: 20200208.html
 .. _`1 Feb 2020`: 20200201.html

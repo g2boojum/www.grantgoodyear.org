@@ -86,18 +86,18 @@ B1.  \( 8) 4-in-line dn hall, turn as cpls
 ..   \( 8) return, centers hand-cast around ends
 ==== ===== ===
 
-Monica's Joy (Erik Hoffman)
----------------------------
+Centrifugal Hey (Gene Hubert)
+-----------------------------
 
 Improper
 
 ==== ===== ===
-A1.  \( 8) N dsd 1 1/4 to wavy lines (W in center)
-..   \( 8) Almd rt 1/2, men almd lf 1x
-A2.  \(16) Hey (N pass rt sh)
-B1.  \(16) N gypsy & sw
-B2.  \( 8) Cir lf
-..   \( 8) 1s sw, end facing down
+A1.  \( 8) N almd rt 1 1/2
+..   \( 8) M almd lf 1 1/2
+A2.  \(16) Hey (pass P rt)
+B1.  \(16) P bal & sw
+B2.  \( 8) Rt & lf thru
+..   \( 8) Cir lf 3/4, pass thru
 ==== ===== ===
 
 
@@ -166,7 +166,7 @@ Improper
 
 ==== ===== ===
 A1.  \( 8) P ½ pousette (W push)
-..   \( 8) M almd rt 1× or 2×
+..   \( 8) M almd rt 1½
 A2.  \(16) P gypsy & sw
 B1.  \( 8) Rt & lf thru
 ..   \( 8) W ch (to N)
@@ -178,7 +178,10 @@ Notes:
 1. For the Pousette, W push P back (and slightly rt) 4 steps,
    then pull P forward (and slightly rt) 4 steps,
    to trade places w/ N cpl
-2. At the end of the hey in B2, the M are moving towards the W after
+2. For the M rt hand turn in A1, the description is to turn 1½, but
+   for the dancers it will probably feel like going 2× (or maybe 1× if
+   a bit slow). George Marshall tells dancers to almd rt 2×.
+3. At the end of the hey in B2, the M are moving towards the W after
    the ½ gypsy, so the temptation is to have the M push in the pousette.
    Don't do that.
 
